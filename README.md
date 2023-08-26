@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Youtube tutorials, Laravel Projects<br><br><br>💬 Ask me about Laravel,Javascript,Vue Js,Alpine Js<br><br>📫 How to reach me jumawilliam2011@gmail.com<br><br>📄 Know about my experiences Check out my youtube channel https://www.youtube.com/channel/UCJWvaGdaD01mFsN3Ca0jugA<br><br>
+🔭 I’m currently working on Youtube tutorials, Laravel Projects<br><br><br>💬 Ask me about Laravel,Javascript,Vue Js,Alpine Js,livewire,svelte js<br><br>📫 How to reach me jumawilliam2011@gmail.com<br><br>📄 Know about my experiences Check out my youtube channel https://www.youtube.com/channel/UCJWvaGdaD01mFsN3Ca0jugA<br><br>
 
 
 ## 🌐 Socials:
